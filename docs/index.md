@@ -7,7 +7,7 @@ Badminton Club Gestel is een levendige en gastvrije badmintonclub gevestigd in G
 
 ## Lidmaatschap
 ### Hoe te Worden
-Om lid te worden, stuur een ingevuld [lidmaadschapsformulier](../files/bcg.pdf) naar bestuur@badmintonclubgestel.nl
+Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/bcg.pdf) naar bestuur@badmintonclubgestel.nl
 
 ### Voordelen van Lidmaatschap
 - Toegang tot reguliere trainingssessies
