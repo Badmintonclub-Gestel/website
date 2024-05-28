@@ -1,6 +1,6 @@
 # Badminton Club Gestel - README
 
-Welkom op de officiële website van Badminton Club Gestel!
+Welkom op de officiële website van Badmintonclub Gestel!
 
 ## Over Ons
 Badminton Club Gestel is een levendige en gastvrije badmintonclub gevestigd in Gestel. Onze club is geschikt voor spelers van alle leeftijden en niveaus, met mogelijkheden voor zowel recreatief spel als competitieve training.
