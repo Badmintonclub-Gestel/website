@@ -1,4 +1,4 @@
-# Wijzigingen in files in de root mogen alleen door het Badmintonclub-Gestel account worden goedgekeurd
+# Wijzigingen in CODEOWNERS alleen door het Badmintonclub-Gestel account worden goedgekeurd
 /CODEOWNERS @Badmintonclub-Gestel
 
 # Deze gebruikers mogen wijzigingen in de docs directory goedkeuren
