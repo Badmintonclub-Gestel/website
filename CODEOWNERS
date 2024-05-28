@@ -1,5 +1,5 @@
-# Wijzigingen in files in de root mogen alleen door het Badmintonclub-Gestel account worden goedgekeurd
-/ @Badmintonclub-Gestel
+# Wijzigingen in CODEOWNERS alleen door het Badmintonclub-Gestel account worden goedgekeurd
+/CODEOWNERS @Badmintonclub-Gestel
 
 # Deze gebruikers mogen wijzigingen in de docs directory goedkeuren
 /docs @nrkoelewijn @wmkuipers
@@ -7,6 +7,6 @@
 # Wijzigingen aan de website configuratie moeten worden goedgekeurd door deze gebruiker
 /docs/_config.yml @nrkoelewijn @Badmintonclub-Gestel
 
-# Iedereen mag deze files aanpassen
-/docs/*.md *
-/docs/files *
+# Iedereen mag deze files aanpassen.
+/docs/*.md
+/docs/files

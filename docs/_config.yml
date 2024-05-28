@@ -1,3 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme 
+github:
+  is_project_page: false
+title: Badmintonclub Gestel
+description: Welkom bij de gezelligste badmintonclub van Brabant!  BCG is een levendige en gastvrije badmintonclub gevestigd in Sint-Michielsgestel. 
+logo: files/LogoBCG_small.png

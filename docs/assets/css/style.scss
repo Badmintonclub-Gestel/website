@@ -1,0 +1,174 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background: #f2cc03;
+    color: #463f3a;
+    font-size: 1.2em;
+    margin: 0px;
+    padding: 20px 0px;
+}
+
+#header_wrap {
+    background: #ffffff;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#header_wrap .inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+}
+
+#project_title, #project_tagline {
+    margin: 0px;
+    padding-left: 288px; /* Adjust based on the image width plus some padding */
+    text-shadow: none;
+}
+
+#project_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 268px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    background-image: url('../../files/LogoBCG_300.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#project_title {
+    color: #0522ec;
+}
+
+#project_tagline {
+    color: #8a817c;
+}
+
+#main_content_wrap {
+    background: #ffffff;
+    border: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#main_content {
+    background: #e8e9f3;
+    padding: 40px 60px;
+    border: 0px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+}
+
+#footer_wrap {
+    display: none; /* Hide standard Git Pages footer marketing */
+}
+
+#GoogleCal {
+    border:solid 3px #f2cc03;
+    border-radius: 6px;
+    width:100%;
+    max-width: 500px;
+    height: 500px;
+    frameborder: 0;
+    scrolling: no;
+    margin: 20px auto;
+}
+
+.btn {
+    background: #f2cc03;
+    border-radius: 12px;
+    color: #463f3a;
+    text-decoration: none;
+    line-height: 3em;
+    padding: 20px 25px;
+    font-weight: 700;
+}
+
+p:has(> .btn) {
+    text-align: center;
+    margin: 10px auto;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #463f3a;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 0.8em;
+}
+
+h6 {
+    font-size: 0.6em;
+}
+
+p img {
+    margin: 20px auto;
+    padding: 0px;
+    border: 3px solid #f2cc03;
+    border-radius: 6px;
+    height: 300px;
+    width: auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    #header_wrap .inner {
+        align-items: center;
+        text-align: center; /* Centers text on smaller screens */
+  }
+
+    #project_title, #project_tagline {
+        padding-left: 0px;
+        position: relative; /* Reset position */
+  }
+
+    #project_title::before {
+        position: static;
+        transform: none;
+        margin: 0px auto 10px auto; /* Distance between image and text below */ 
+  }
+    #main_content {
+        padding: 30px 20px;
+    }
+
+    #GoogleCal {
+        height: 300px;
+    }
+    
+    p img {
+        width: 100%;
+        height: auto;
+    }
+}
