@@ -1,11 +1,7 @@
-# Badminton Club Gestel
-
-Welkom bij de gezelligste badmintonclub van Brabant! Badminton Club Gestel (B.C.G.) is een levendige en gastvrije badmintonclub gevestigd in Sint-Michielsgestel. Onze club is geschikt voor spelers van alle leeftijden en niveaus, met mogelijkheden voor zowel recreatief spel als competitieve training.
-
 ## Kom eens langs!
 **Adres:** Wij spelen in Sporthal Theereheide, Eikenlaan 5, 5271RR, Sint-Michielsgestel.
 
-Maak kennis met onze sportclub op de donderdagavond, en speel vrijblijvend een potje mee. Heb je nog geen racket? Geen probleem, dan kun je er een lenen voor de avond. 
+Maak kennis met onze sportclub op de donderdagavond, en speel vrijblijvend een potje mee. Heb je nog geen racket? Geen probleem, dan kun je er een lenen voor de avond. Onze club is geschikt voor spelers van alle leeftijden en niveaus, met mogelijkheden voor zowel recreatief spel als competitieve training.
 
 De zaal mag uitsluitend worden betreedt met sportschoenen die alleen voor binnensport worden gebruikt. De kleedkamers die voor B.C.G. bestemd zijn, zijn bij binnenkomst links; dames kleedkamer nr. 2, heren kleedkamer nr.1 (achterin).
 
