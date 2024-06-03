@@ -30,6 +30,7 @@ Voor automatische incasso van het inschrijfgeld, stuur dan ook een ingevuld [mac
 
 ## Contact
 Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of even bellen.
+
 | Commissie | Functie | Naam | E-mail |
 | :--- | :----: | :----: | ---: |
 | Bestuur               | Algemeen contact      | Alle bestuursleden       | bestuur@badmintonclubgestel.nl        |
