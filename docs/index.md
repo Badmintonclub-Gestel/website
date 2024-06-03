@@ -31,17 +31,18 @@ Voor automatische incasso van het inschrijfgeld, stuur dan ook een ingevuld [mac
 ## Contact
 Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of even bellen.
 
-| Commissie | Functie | Naam | E-mail |
-| :--- | :----: | :----: | ---: |
-| Bestuur               | Algemeen contact      | Alle bestuursleden       | bestuur@badmintonclubgestel.nl        |
-|                       | Voorzitter            | Dennis Ubben             | voorzitter@badmintonclubgestel.nl     |
-|                       | Secretaris            | Ad van Schijndel         | secretaris@badmintonclubgestel.nl     |
-|                       | Penningmeester        | Daan Verhagen            | penningmeester@badmintonclubgestel.nl |
-|                       | Algemeen bestuurslid  | Thomas Verhagen          | bestuur@badmintonclubgestel.nl        |
-|                       | PR                    | Erik van Boxtel          | bestuur@badmintonclubgestel.nl        |
-| Jeugdcommissie        |                       | Bram van Breugel         | jeugd@badmintonclubgestel.nl          |
-|                       |                       | Johan van der Donk       | jeugd@badmintonclubgestel.nl          |
-| Website               | Admin                 | Natascha Kuipers         | website@badmintonclubgestel.nl        |
+- Bestuur
+  - Algemeen contact: bestuur@badmintonclubgestel.nl
+  - Dennis Ubben (voorzitter): voorzitter@badmintonclubgestel.nl
+  - Ad van Schijndel (secretaris): secretaris@badmintonclubgestel.nl
+  - Daan Verhagen (penningmeester): penningmeester@badmintonclubgestel.nl
+  - Thomas Verhagen (algemeen bestuurslid): bestuur@badmintonclubgestel.nl
+  - Erik van Boxtel (PR): bestuur@badmintonclubgestel.nl
+- Jeugdcommissie: jeugd@badmintonclubgestel.nl
+  - Bram van Breugel (jeugdbegeleider)
+  - Johan van der Donk (jeugdbegeleider)
+- Website: website@badmintonclubgestel.nl
+  - Natascha Kuipers (admin)
 
 **Telefoon:** 06-26808704 (Ad van Schijndel)
 
