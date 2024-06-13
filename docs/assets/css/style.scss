@@ -77,7 +77,7 @@ body {
     display: none; /* Hide standard Git Pages footer marketing */
 }
 
-#GoogleCal {
+#GoogleCal, #GoogleMaps {
     border:solid 3px #f2cc03;
     border-radius: 6px;
     width:100%;
@@ -163,7 +163,7 @@ p img {
         padding: 30px 20px;
     }
 
-    #GoogleCal {
+    #GoogleCal, #GoogleMaps {
         height: 300px;
     }
     
