@@ -1,7 +1,7 @@
 [Word lid!](../files/inschrijving2024.pdf){: .btn}
 
 ## Kom eens langs!
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2476.4428308651527!2d5.3366998!3d51.6334148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6e8c774e824dd%3A0xd15804e22a243b35!2sSporthal%20Theereheide!5e0!3m2!1sen!2snl!4v1718295491341!5m2!1sen!2snl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe id="GoogleMaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2476.4428308651527!2d5.3366998!3d51.6334148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6e8c774e824dd%3A0xd15804e22a243b35!2sSporthal%20Theereheide!5e0!3m2!1sen!2snl!4v1718295491341!5m2!1sen!2snl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Wij spelen in Sporthal Theereheide, Eikenlaan 5, 5271RR, Sint-Michielsgestel.*
 
 Maak kennis met onze sportclub op de donderdagavond, en speel vrijblijvend een potje mee. 
