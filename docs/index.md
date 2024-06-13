@@ -24,8 +24,8 @@ Nieuwe website en nieuwe plek voor alle foto's: [Instagram](https://instagram.co
 
 ### Mei 2024
 Ieder clublid krijgt het eerste clubshirt gratis! 
-![clubshirt voorkant](../files/clubshirt_voor.jpg)
-![clubshirt achterkant](../files/clubshirt_achter.jpg)
+![clubshirt voorkant](../images/clubshirt_voor.jpg)
+![clubshirt achterkant](../images/clubshirt_achter.jpg)
 
 ## Trainingssessies
 We bieden reguliere trainingssessies voor de jeugd op de donderdagavond. De training is geschikt voor alle spelers: beginners, ervaren, en competitie. Er is een trainer aanwezig, die wordt bijgestaan door leden van de jeugdcommissie.
