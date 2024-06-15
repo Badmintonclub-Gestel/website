@@ -19,6 +19,10 @@ De zaal mag uitsluitend worden betreed met sportschoenen die alleen voor binnens
 ### Kalender
 <iframe id="GoogleCal" src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FAmsterdam&bgcolor=%23f2cc03&showTitle=0&title=Badmintonclub%20Gestel&showPrint=0&showCalendars=0&showTz=0&mode=WEEK&src=YmFkbWludG9uY2x1Ymdlc3RlbEBnbWFpbC5jb20&color=%237986CB"></iframe>
 
+#### Blijf op de hoogte
+Download de BCG-kalender naar je eigen telefoon/tablet/laptop om altijd op te hoogte te zijn van de speeltijd en evenementen.  
+[Download BCG-kalender](https://calendar.google.com/calendar/ical/badmintonclubgestel%40gmail.com/public/basic.ics){: .btn}
+
 ## Laatste Nieuws
 ### Juni 2024
 Nieuwe website en nieuwe plek voor alle foto's: [Instagram](https://instagram.com/badmintonclubgestel)!
