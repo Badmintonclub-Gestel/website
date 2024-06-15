@@ -17,7 +17,7 @@ De zaal mag uitsluitend worden betreed met sportschoenen die alleen voor binnens
 - zaterdagavond: vrij spelen voor jeugd en senioren van 19:00 - 21:00. Er is dan geen begeleiding aanwezig.
 
 ### Kalender
-<iframe id="GoogleCal" src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FAmsterdam&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTz=0&showCalendars=0&hl=nl&src=eW91dHViZUB5YXJuc3RydWN0aW9ucy5jb20&color=%23039BE5"></iframe>
+<iframe id="GoogleCal" src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FAmsterdam&bgcolor=%23f2cc03&showTitle=0&title=Badmintonclub%20Gestel&showPrint=0&showCalendars=0&showTz=0&mode=WEEK&src=YmFkbWludG9uY2x1Ymdlc3RlbEBnbWFpbC5jb20&color=%237986CB"></iframe>
 
 ## Laatste Nieuws
 ### Juni 2024
