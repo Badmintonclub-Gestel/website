@@ -10,7 +10,7 @@ Heb je nog geen racket? Geen probleem, dan kun je er een lenen voor de avond.
 
 Onze club is geschikt voor spelers van alle leeftijden en niveaus, met mogelijkheden voor zowel recreatief spel als competitieve training.
 
-De zaal mag uitsluitend worden betreedt met sportschoenen die alleen voor binnensport worden gebruikt. De kleedkamers die voor B.C.G. bestemd zijn, zijn bij binnenkomst links; dames kleedkamer nr. 2, heren kleedkamer nr.1 (achterin).
+De zaal mag uitsluitend worden betreed met sportschoenen die alleen voor binnensport worden gebruikt. De kleedkamers die voor B.C.G. bestemd zijn, zijn bij binnenkomst links; dames kleedkamer nr. 2, heren kleedkamer nr.1 (achterin).
 
 ### Speeltijden
 - donderdagavond: jeugd (training) van 19:15 - 20:15, en voor senioren van 20:15 - 22:45.
@@ -55,21 +55,20 @@ Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of ev
 ### Bestuur
   - Dennis Ubben (voorzitter)
     - *<voorzitter@badmintonclubgestel.nl>*
-  - Ad van Schijndel (secretaris)
+  - Ad van Schijndel, 06-26808704 (secretaris)
     - *<secretaris@badmintonclubgestel.nl>*
-  - Daan Verhagen (penningmeester)
+  - Thomas Verhagen (penningmeester)
     - *<penningmeester@badmintonclubgestel.nl>*
   - Algemeen contact
   - Erik van Boxtel (PR)
-  - Thomas Verhagen (algemeen bestuurslid)
+  - Daan Verhagen (algemeen bestuurslid)
     - *<bestuur@badmintonclubgestel.nl>*
 
 ### Jeugdcommissie
-  - Bram van Breugel (jeugdbegeleider)
-  - Johan van der Donk (jeugdbegeleider)
-    - *<jeugd@badmintonclubgestel.nl>* 
+*<jeugd@badmintonclubgestel.nl>*
 
-**Telefoon:** 06-26808704 (Ad van Schijndel)
+  - Bram van Breugel (jeugdbegeleider)
+  - Johan van der Donk (jeugdbegeleider) 
 
 ### Postadres
 Schriftelijk contact, en het toesturen van ondertekende formulieren, graag adresseren aan:  
