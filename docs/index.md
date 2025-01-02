@@ -1,4 +1,4 @@
-[Word lid!](../files/inschrijving2024.pdf){: .btn}
+[Word lid!](../files/inschrijving.pdf){: .btn}
 
 ## Kom eens langs!
 <iframe id="GoogleMaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2476.4428308651527!2d5.3366998!3d51.6334148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6e8c774e824dd%3A0xd15804e22a243b35!2sSporthal%20Theereheide!5e0!3m2!1sen!2snl!4v1718295491341!5m2!1sen!2snl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ Ook is er iedere donderdagavond na het spelen, ruimte en tijd om de avond gezell
 
 ## Lidmaatschap
 ### Hoe lid te worden
-Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/inschrijving2024.pdf) naar <secretaris@badmintonclubgestel.nl>.
+Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/inschrijving.pdf) naar <secretaris@badmintonclubgestel.nl>.
 Voor automatische incasso van het inschrijfgeld, vul ook de achterkant van het inschrijfformulier in.
 
 ### Voordelen van Lidmaatschap
@@ -51,7 +51,7 @@ Voor automatische incasso van het inschrijfgeld, vul ook de achterkant van het i
 - Sociale evenementen en clubactiviteiten
 - Professionele coaching
 
-[Word lid!](../files/inschrijving2024.pdf){: .btn}
+[Word lid!](../files/inschrijving.pdf){: .btn}
 
 ## Contact
 Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of even bellen.
