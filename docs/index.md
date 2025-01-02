@@ -28,7 +28,7 @@ Blijf altijd op de hoogte met de BCG-kalender op je eigen telefoon/tablet/laptop
 Nieuwe website en nieuwe plek voor alle foto's: [Instagram](https://instagram.com/badmintonclubgestel)!
 
 ### Mei 2024
-Ieder clublid krijgt het eerste clubshirt tegen gereduceerd tarief (zie [lidmaatschapsformulier](../files/inschrijving.pdf) voor meer info)! 
+Ieder clublid krijgt het eerste clubshirt tegen gereduceerd tarief (zie [lidmaatschapsformulier](../files/inschrijving.pdf) voor meer info)!   
 ![clubshirt voorkant](../images/clubshirt_voor.jpg)
 ![clubshirt achterkant](../images/clubshirt_achter.jpg)
 
