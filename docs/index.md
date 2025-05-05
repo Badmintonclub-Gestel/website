@@ -64,7 +64,7 @@ Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of ev
   - Thomas Verhagen (penningmeester)
     - *<penningmeester@badmintonclubgestel.nl>*
   - Algemeen contact
-  - Erik van Boxtel (PR)
+  - Cindy van Schijndel (PR)
   - Daan Verhagen (algemeen bestuurslid)
     - *<bestuur@badmintonclubgestel.nl>*
 
