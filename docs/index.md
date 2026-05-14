@@ -51,7 +51,7 @@ Voor automatische incasso van het inschrijfgeld, vul ook de achterkant van het i
 - Sociale evenementen en clubactiviteiten
 - Professionele coaching
 
-[Word lid!](../files/inschrijving.pdf){: .btn}
+[Word lid!](../files/Inschrijfformulier.pdf){: .btn}
 
 ## Contact
 Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of even bellen.
