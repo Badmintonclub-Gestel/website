@@ -28,7 +28,7 @@ Blijf altijd op de hoogte met de BCG-kalender op je eigen telefoon/tablet/laptop
 Nieuwe website en nieuwe plek voor alle foto's: [Instagram](https://instagram.com/badmintonclubgestel)!
 
 ### Mei 2024
-Ieder clublid krijgt het eerste clubshirt tegen gereduceerd tarief (zie [lidmaatschapsformulier](../files/inschrijving.pdf) voor meer info)!   
+Ieder clublid krijgt het eerste clubshirt tegen gereduceerd tarief (zie [lidmaatschapsformulier](../files/Inschrijformulier.pdf) voor meer info)!   
 ![clubshirt voorkant](../images/clubshirt_voor.jpg)
 ![clubshirt achterkant](../images/clubshirt_achter.jpg)
 
@@ -42,7 +42,7 @@ Ook is er iedere donderdagavond na het spelen, ruimte en tijd om de avond gezell
 
 ## Lidmaatschap
 ### Hoe lid te worden
-Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/inschrijfformulier.pdf) naar <secretaris@badmintonclubgestel.nl>.
+Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/Inschrijfformulier.pdf) naar <secretaris@badmintonclubgestel.nl>.
 Voor automatische incasso van het inschrijfgeld, vul ook de achterkant van het inschrijfformulier in.
 
 ### Voordelen van Lidmaatschap
