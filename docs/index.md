@@ -33,7 +33,7 @@ Ieder clublid krijgt het eerste clubshirt tegen gereduceerd tarief (zie [lidmaat
 ![clubshirt achterkant](../images/clubshirt_achter.jpg)
 
 ## Trainingssessies
-We bieden reguliere trainingssessies voor de jeugd op de donderdagavond. De training is geschikt voor alle spelers: beginners, ervaren, en competitie. Er is een trainer aanwezig, die wordt bijgestaan door leden van de jeugdcommissie.
+We bieden reguliere trainingssessies voor de jeugd op de donderdagavond. De training is geschikt voor alle spelers: beginners, ervaren, en competitie. Er is een trainer aanwezig, die wordt bijgestaan door leden van de club.
 
 ## Toernooien en Evenementen
 Naast de wekelijkse speelavonden organiseert Badmintonclub Gestel ook andere (sportieve) activiteiten zoals de clubkampioenschappen, uitstapjes, het ouder-kindtoernooi, en nog veel meer! 
@@ -65,14 +65,17 @@ Voor meer informatie kun je langskomen op een van de speelavonden, mailen, of ev
     - *<penningmeester@badmintonclubgestel.nl>*
   - Algemeen contact
   - Cindy van Schijndel (PR)
+    - *<publicrelations@badmintonclubgestel.nl>*
   - Daan Verhagen (algemeen bestuurslid)
     - *<bestuur@badmintonclubgestel.nl>*
 
 ### Jeugdcommissie
 *<jeugd@badmintonclubgestel.nl>*
 
-  - Bram van Breugel (jeugdbegeleider)
-  - Johan van der Donk (jeugdbegeleider) 
+  - Thomas Verhagen
+  - Cindy van Schijndel
+  - Dave van der Weide
+  - Johan van der Donk  
 
 ### Postadres
 Schriftelijk contact, en het toesturen van ondertekende formulieren, graag adresseren aan:  
