@@ -42,7 +42,7 @@ Ook is er iedere donderdagavond na het spelen, ruimte en tijd om de avond gezell
 
 ## Lidmaatschap
 ### Hoe lid te worden
-Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/inschrijving.pdf) naar <secretaris@badmintonclubgestel.nl>.
+Om lid te worden, stuur een ingevuld [lidmaatschapsformulier](../files/inschrijfformulier.pdf) naar <secretaris@badmintonclubgestel.nl>.
 Voor automatische incasso van het inschrijfgeld, vul ook de achterkant van het inschrijfformulier in.
 
 ### Voordelen van Lidmaatschap
